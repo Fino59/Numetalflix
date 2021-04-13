@@ -1,0 +1,93 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  text-align: center;
+  background-image: url('https://www.pixelstalk.net/wp-content/uploads/images1/Best-Metal-Images.jpg');
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
+
+#showVideos {
+  display: block;
+  margin: auto;
+  /*max-width: 560px;*/
+}
+
+#showVideos iframe {
+  margin: 10px;
+} 
+
+.form-wrapper input {
+  display: block;
+  margin: auto;
+  min-width: 50px;
+  width: 299px;
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.form-wrapper button {
+  border: 0;
+  color: #ffffff;
+  width: 163px;
+  font-weight:bold;
+  padding: 15px 20px;
+  font-size: 16px;
+  border-radius: 3px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: .3s;
+  
+}
+
+.btnAdicionar {
+  background: #FF6A02;
+  transition: 5s;
+} 
+
+#video {
+font-weight: bold;
+font-size: 17px;
+}
+
+.form-wrapper button:hover {
+  background: black;
+  opacity:.9;
+  transition: 0.6s;
+}
+
+footer {
+/*background-color: #0000006d;*/
+position: static;
+bottom: 0px;
+right: 45%;
+}
