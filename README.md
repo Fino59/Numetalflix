@@ -5,4 +5,4 @@ Aplicação semelhante a Netflix porém com clips do youtube criada utilizando *
 Application similar to Netflix but with youtube clips created using **Javascript**, **HTM ** and **CSS** in ImersãoDev from [Alura.](http://www.alura.com.br)
 
 
-[!selection](Numetalflix.jpg)
+![Preview](Numetalflix.jpg)
